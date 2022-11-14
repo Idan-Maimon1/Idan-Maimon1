@@ -1,19 +1,11 @@
-# Hi there 👋
+<h2 style="margin: 0px;"> Hi there im Idan Maimon👋
 
-<!--
-**Idan-Maimon1/Idan-Maimon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>Full-Stack Web / Frontend Developer with experience in writing single-page applications using the latest WEB technologies.
+Graduate of the Coding Academy Bootcamp – 640 hours of intensive coding Bootcamp that qualifies Full-Stack developers.
+</h4>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 color="red" style="margin: 0px;" > Work mostly with: </h3>
 
 <p align="left" dir="auto"> 
 <a href="https://angular.io" rel="nofollow"> <img src="https://camo.githubusercontent.com/9eecc42439347332f256a326363924551042f5b96235f972982512199476611a/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667" alt="angular" width="40" height="40" data-canonical-src="https://angular.io/assets/images/logos/angular/angular.svg" style="max-width: 100%;"> </a>
@@ -24,4 +16,9 @@ Here are some ideas to get you started:
   <a href="https://reactjs.org/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/180px-React-icon.svg.png" alt="react" width="40" height="40" data-canonical-src="" style="max-width: 100%;"> </a> 
   <a href="https://render-web.onrender.com" rel="nofollow"> <img src="https://tutorials.yax.com/assets/images/articles/render-logo.png" alt="render" width="40" height="40" data-canonical-src="" style="max-width: 100%;"> </a> 
   <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a> <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://vuejs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;"> </a> </p>
+
+
+
+<h3 color="red" style="margin: 0px;" > 📫 Reach me at&nbsp<a href="https://www.linkedin.com/in/idan-ma1mon/">   <img src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" width="18" height="18" style="max-width: 100%;"></a><a  href="https://www.linkedin.com/in/idan-ma1mon/">&nbspLinkedin</a></h3>
+  
 
