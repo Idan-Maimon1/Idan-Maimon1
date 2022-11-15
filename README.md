@@ -1,4 +1,4 @@
-<h2 style="margin: 0px;"> Hi there im Idan Maimon👋
+<h2 style="margin: 0px;"> Hi there i'm Idan Maimon👋
 
 <h4>Full-Stack Web / Frontend Developer with experience in writing single-page applications using the latest WEB technologies.
 Graduate of the Coding Academy Bootcamp – 640 hours of intensive coding Bootcamp that qualifies Full-Stack developers.
