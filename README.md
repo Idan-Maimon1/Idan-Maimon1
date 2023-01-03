@@ -20,7 +20,7 @@ Graduate of the Coding Academy Bootcamp – 640 hours of intensive coding Bootca
 <h3>My lstest projects:</h3>
    <h3><a href="https://skybnb.onrender.com/">   <img src="https://res.cloudinary.com/nogacloud/image/upload/v1659367634/other/favicon.png" width="26" height="26" style="max-width: 100%;margin-bottom: -5px;"></a><a  href="https://skybnb.onrender.com/"> skybnb - airbnb clone app &nbsp</a></h3>
   <h5>project repositories: <a href="https://github.com/Idan-Maimon1/Skybnb-frontend">frontend</a> | <a href="https://github.com/Idan-Maimon1/Skybnb-backend">backend</a></h5>
-<h3><a href="https://twond-hand.onrender.com/#/">   <img src="https://twond-hand.onrender.com/trade-icon.svg" width="26" height="26" style="max-width: 100%;margin-bottom: -7px;"></a><a  href="https://twond-hand.onrender.com/#/" style="
+<h3><a href="https://twond-hand.onrender.com/#/">   <img src="https://res.cloudinary.com/dipjgyi1r/image/upload/v1672782701/2nd-hand/trade-icon_x09tyt.svg" width="26" height="26" style="max-width: 100%;margin-bottom: -7px;"></a><a  href="https://twond-hand.onrender.com/#/" style="
     color: aquamarine;
 "> 2ndhand &nbsp</a></h3>
  <h5>project repositories: <a href="https://github.com/Idan-Maimon1/2nd-Hand-Store">frontend</a> | <a href="https://github.com/Idan-Maimon1/2nd-Hand-Store-backend">backend</a></h5>
