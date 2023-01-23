@@ -18,11 +18,17 @@ Graduate of the Coding Academy Bootcamp – 640 hours of intensive coding Bootca
   <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a> <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://vuejs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;"> </a> </p>
   
 <h3>My latest projects:</h3>
-   <h3><a href="https://skybnb.onrender.com/">   <img src="https://res.cloudinary.com/nogacloud/image/upload/v1659367634/other/favicon.png" width="26" height="26" style="max-width: 100%;margin-bottom: -5px;"></a><a  href="https://skybnb.onrender.com/"> skybnb - airbnb clone app &nbsp</a></h3>
+  
+  <h3><a href="https://bitcoin-app.onrender.com/#/">   <img src="https://res.cloudinary.com/dipjgyi1r/image/upload/v1674492543/2nd-hand/logo_ahsdry.svg" width="26" height="26" style="max-width: 100%;margin-bottom: -7px;"></a><a  href="https://bitcoin-app.onrender.com/#/" style="
+    color: aquamarine;
+"> Bitcoin app &nbsp</a> (React.js)</h3>
+ <h5>project repositories: <a href="https://github.com/Idan-Maimon1/bitcoin-app">frontend</a> 
+  
+   <h3><a href="https://skybnb.onrender.com/">   <img src="https://res.cloudinary.com/nogacloud/image/upload/v1659367634/other/favicon.png" width="26" height="26" style="max-width: 100%;margin-bottom: -5px;"></a><a  href="https://skybnb.onrender.com/"> skybnb - airbnb clone app &nbsp</a> (Vue.js)</h3>
   <h5>project repositories: <a href="https://github.com/Idan-Maimon1/Skybnb-frontend">frontend</a> | <a href="https://github.com/Idan-Maimon1/Skybnb-backend">backend</a></h5>
 <h3><a href="https://twond-hand.onrender.com/#/">   <img src="https://res.cloudinary.com/dipjgyi1r/image/upload/v1672782701/2nd-hand/trade-icon_x09tyt.svg" width="26" height="26" style="max-width: 100%;margin-bottom: -7px;"></a><a  href="https://twond-hand.onrender.com/#/" style="
     color: aquamarine;
-"> 2ndhand &nbsp</a></h3>
+"> 2ndhand &nbsp</a> (Vue.js)</h3>
  <h5>project repositories: <a href="https://github.com/Idan-Maimon1/2nd-Hand-Store">frontend</a> | <a href="https://github.com/Idan-Maimon1/2nd-Hand-Store-backend">backend</a></h5>
 
   <h3 color="red" style="margin: 0px;" > 📫 For any questions you can reach me at&nbsp<a href="https://www.linkedin.com/in/idan-ma1mon/">   <img src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" width="18" height="18" style="max-width: 100%;"></a><a  href="https://www.linkedin.com/in/idan-ma1mon/">&nbspLinkedin</a></h3>
