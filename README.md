@@ -22,7 +22,7 @@ Graduate of the Coding Academy Bootcamp – 640 hours of intensive coding Bootca
   
 <h3>My latest projects:</h3>
 
-  <h3><a href="https://skybnb.onrender.com/">   <img src="https://res.cloudinary.com/nogacloud/image/upload/v1659367634/other/favicon.png" width="26" height="26" style="max-width: 100%;margin-bottom: -5px;"></a><a  href="https://skybnb.onrender.com/"> skybnb - airbnb clone app &nbsp</a> (Vue.js)</h3>
+  <h3><a href="https://sky-bnb.onrender.com/">   <img src="https://res.cloudinary.com/nogacloud/image/upload/v1659367634/other/favicon.png" width="26" height="26" style="max-width: 100%;margin-bottom: -5px;"></a><a  href="https://sky-bnb.onrender.com/"> skybnb - airbnb clone app &nbsp</a> (Vue.js)</h3>
   <h5>project repositories: <a href="https://github.com/Idan-Maimon1/Skybnb-frontend">frontend</a> | <a href="https://github.com/Idan-Maimon1/Skybnb-backend">backend</a></h5>
   
    <h3><a href="https://bitcoin-app.onrender.com/#/">   <img src="https://res.cloudinary.com/dipjgyi1r/image/upload/v1674492543/2nd-hand/logo_ahsdry.svg" width="26" height="26" style="max-width: 100%;margin-bottom: -7px;"></a><a  href="https://bitcoin-app.onrender.com/#/" style="
