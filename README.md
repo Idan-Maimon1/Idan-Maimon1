@@ -1,40 +1,39 @@
-<h2 style="margin: 0px;"> Hi there i'm Idan Maimon👋
+# Hi there! 👋
 
-<h4>Full-Stack & Mobile app Developer with experience in writing single-page applications & mobile applications using the latest WEB technologies.
-Graduate of the Coding Academy Bootcamp – 640 hours of intensive coding Bootcamp that qualifies Full-Stack developers.
-</h4>
+I'm Idan Maimon, a Full-Stack & Mobile app Developer with experience in building single-page and mobile applications using the latest web technologies.
+Graduate of the Coding Academy Bootcamp
 
+<p align="left">
+  <a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/180px-React-icon.svg.png" alt="react" height="40"></a>
+  <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="40"></a>
+  <a href="https://canvasjs.com"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" height="40"></a>
+  <a href="https://www.chartjs.org"><img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="chartjs" height="40"></a>
+  <a href="https://firebase.google.com/"><img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" alt="firebase" height="40"></a>
+  <a href="https://git-scm.com/"><img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="git" height="40"></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"></a>
+  <a href="#"><img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?resize=500%2C550&ssl=1" alt="js" height="40"></a>
+  <a href="https://render-web.onrender.com"><img src="https://tutorials.yax.com/assets/images/articles/render-logo.png" alt="render" height="40"></a>
+  <a href="https://reactnative.dev/"><img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="React native" height="40"></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40"></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"></a>
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"></a>
+  <a href="https://postman.com"><img src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" alt="postman" width="40" height="40"></a>
+  <a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"></a>
+  <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"></a>
+</p>
 
-<h3 color="red" style="margin: 0px;" > Work mostly with: </h3>
+## My Latest Projects:
 
-<p align="left" dir="auto"> 
-<a href="https://angular.io" rel="nofollow"> <img src="https://camo.githubusercontent.com/9eecc42439347332f256a326363924551042f5b96235f972982512199476611a/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667" alt="angular" width="40" height="40" data-canonical-src="https://angular.io/assets/images/logos/angular/angular.svg" style="max-width: 100%;"> </a>
-<a href="https://angular.io" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" height="40" style="max-width: 100%;"> </a>
-  <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://canvasjs.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.chartjs.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9be0208aa516b4d1976412d27e9f73d851ea253f8ee005a0b600939f841bba8b/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667" alt="chartjs" width="40" height="40" data-canonical-src="https://www.chartjs.org/media/logo-title.svg" style="max-width: 100%;"> </a> <a href="https://www.figma.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="figma" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;"> </a> <a href="https://firebase.google.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;"> </a> <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a> <a href="https://heroku.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> 
-  <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
-   <a href="" rel="nofollow"> <img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?resize=500%2C550&ssl=1" alt="js" width="40" height="40" data-canonical-src="" style="max-width: 100%;"> </a> 
-  <a href="https://reactjs.org/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/180px-React-icon.svg.png" alt="react" width="40" height="40" data-canonical-src="" style="max-width: 100%;"> </a> 
-  <a href="https://render-web.onrender.com" rel="nofollow"> <img src="https://tutorials.yax.com/assets/images/articles/render-logo.png" alt="render" width="40" height="40" data-canonical-src="" style="max-width: 100%;"> </a> 
-   <a href="https://reactnative.dev/" rel="nofollow"> <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="React native" width="34" height="40" style="max-width: 100%;"> </a>
-  <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a> <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a>
-  <a href="https://vuejs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;"> </a>
-  </p>
-  
-<h3>My latest projects:</h3>
+### [<img src="https://res.cloudinary.com/nogacloud/image/upload/v1659367634/other/favicon.png" width="26" height="26" style="max-width: 100%;margin-bottom: -5px;">](https://sky-bnb.onrender.com/) [skybnb - airbnb clone app](https://sky-bnb.onrender.com/) (Vue.js)
 
-  <h3><a href="https://sky-bnb.onrender.com/">   <img src="https://res.cloudinary.com/nogacloud/image/upload/v1659367634/other/favicon.png" width="26" height="26" style="max-width: 100%;margin-bottom: -5px;"></a><a  href="https://sky-bnb.onrender.com/"> skybnb - airbnb clone app &nbsp</a> (Vue.js)</h3>
-  <h5>project repositories: <a href="https://github.com/Idan-Maimon1/Skybnb-frontend">frontend</a> | <a href="https://github.com/Idan-Maimon1/Skybnb-backend">backend</a></h5>
-  
-   <h3><a href="https://bitcoin-app.onrender.com/#/">   <img src="https://res.cloudinary.com/dipjgyi1r/image/upload/v1674492543/2nd-hand/logo_ahsdry.svg" width="26" height="26" style="max-width: 100%;margin-bottom: -7px;"></a><a  href="https://bitcoin-app.onrender.com/#/" style="
-    color: aquamarine;
-"> Bitcoin app &nbsp</a> (React.js)</h3>
- <h5>project repositories: <a href="https://github.com/Idan-Maimon1/bitcoin-app">frontend</a> 
-   
-<h3><a href="https://twond-hand.onrender.com/#/">   <img src="https://res.cloudinary.com/dipjgyi1r/image/upload/v1672782701/2nd-hand/trade-icon_x09tyt.svg" width="26" height="26" style="max-width: 100%;margin-bottom: -7px;"></a><a  href="https://twond-hand.onrender.com/#/" style="
-    color: aquamarine;
-"> 2ndhand &nbsp</a> (Vue.js)</h3>
+<h5>project repositories: <a href="https://github.com/Idan-Maimon1/Skybnb-frontend">frontend</a> | <a href="https://github.com/Idan-Maimon1/Skybnb-backend">backend</a></h5>
+
+### [<img src="https://res.cloudinary.com/dipjgyi1r/image/upload/v1674492543/2nd-hand/logo_ahsdry.svg" width="26" height="26" style="max-width: 100%;margin-bottom: -7px;">](https://bitcoin-app.onrender.com/#/)[ Bitcoin App](https://bitcoin-app.onrender.com/#/) (React.js)
+ <h5>project repository: <a href="https://github.com/Idan-Maimon1/bitcoin-app">frontend</a> 
+
+### [<img src="https://res.cloudinary.com/dipjgyi1r/image/upload/v1672782701/2nd-hand/trade-icon_x09tyt.svg" width="26" height="26" style="max-width: 100%;margin-bottom: -7px;">](https://twond-hand.onrender.com/#/)[2ndhand](https://twond-hand.onrender.com/#/) (Vue.js)
  <h5>project repositories: <a href="https://github.com/Idan-Maimon1/2nd-Hand-Store">frontend</a> | <a href="https://github.com/Idan-Maimon1/2nd-Hand-Store-backend">backend</a></h5>
 
-  <h3 color="red" style="margin: 0px;" > 📫 For any questions you can reach me at&nbsp<a href="https://www.linkedin.com/in/idan-ma1mon/">   <img src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" width="18" height="18" style="max-width: 100%;"></a><a  href="https://www.linkedin.com/in/idan-ma1mon/">&nbspLinkedin</a></h3>
-  
+ <h3 color="red" style="margin: 0px;" > 📫 For any questions you can reach me at&nbsp<a href="https://www.linkedin.com/in/idan-ma1mon/">   <img src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" width="18" height="18" style="max-width: 100%;"></a><a  href="https://www.linkedin.com/in/idan-ma1mon/">&nbspLinkedin</a></h3>
 
